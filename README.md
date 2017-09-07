@@ -4,7 +4,7 @@ A beautiful fractal renderer coded with C, the minilibx (included), and Opencl.
 
 Multiple bonus : 
 * Choose between GPU or CPU
-* large color palette
+* Large color palette
 * Many fractals available
 * Smooth coloring
 
