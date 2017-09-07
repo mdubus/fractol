@@ -1,6 +1,7 @@
 # fractol
 
 A beautiful fractal renderer coded with C, the minilibx (included), and Opencl. 
+
 Multiple bonus : 
 * Choose between GPU or CPU
 * large color palette
@@ -10,9 +11,11 @@ Multiple bonus :
 ## Installation
 
 Compile with CPU : 
+
 `$ make`
 
 Compile with GPU : 
+
 `$ make GPU=yes`
 
 ## Usage
