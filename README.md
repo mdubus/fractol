@@ -2,6 +2,8 @@
 
 A beautiful fractal renderer coded with C, the minilibx (included), and Opencl. 
 
+It is the second infographie project of the school 42.
+
 Multiple bonus : 
 * Choose between GPU or CPU
 * Large color palette
